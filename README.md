@@ -24,6 +24,9 @@ The dashboard focuses on analyzing car sales data, with a particular emphasis on
 4. Fuel Type Analysis:
    - Several sheets compare fuel types against variables like kilometers driven and the number of owners, offering insights into consumer preferences for different fuel types and how these preferences may correlate with car usage and ownership history.
 
+5. Average selling price by seller type:
+   - It shows that, the selling price of the cars depend on the type of seller i.e., the average selling price of the cars is higher if the seller type is Dealer and this tells the customer for choosing the seller type.
+
 ## Insights:
 
 - Brand Influence: Certain brands may command higher prices, reflecting their perceived value or market positioning.
