@@ -1,7 +1,7 @@
 # Starting with this Dashboard
 ## Car sales Dashboard:
 
-![Dashboard Snapshot](https://github.com/KusumaPriya15/Dashboards/blob/main/Screenshot%202024-08-20%20110835.png)
+![Dashboard Snapshot](https://github.com/KusumaPriya15/Dashboards/blob/main/Screenshot%202024-08-23%20222610.png)
 
 ## Purpose:
 
